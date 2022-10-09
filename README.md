@@ -1,0 +1,1 @@
+Random collection of Jupyter notebooks for testing purposes. Mostly Pandas, Matplotlib & OpenCV.
